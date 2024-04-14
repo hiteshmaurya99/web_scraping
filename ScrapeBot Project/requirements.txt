@@ -1,0 +1,6 @@
+requests-html
+nest_asyncio
+aiohttp
+pandas
+beautifulsoup4
+
